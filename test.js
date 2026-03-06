@@ -5,3 +5,4 @@ if (sum(2, 3) !== 5) {
 }
 
 console.log("Tests passed!");
+console.log("passed");
